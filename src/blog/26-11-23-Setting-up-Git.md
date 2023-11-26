@@ -1,12 +1,13 @@
 ---
 title: Setting up Git
 author: Kim Petersen
-date: 
-taging: '["post", "featured"]'
+date:
+tags: ['post', 'featured']
 image: /assets/blog/setting-up-git.png
 imageAlt: Setting up Git
 description: An introduction to what Git is, and how to set it up for your personal use.
 ---
+
 # Setting up Git
 
 ## Introduction
@@ -18,5 +19,3 @@ description: An introduction to what Git is, and how to set it up for your perso
 Even though GitHub and Git sound like they could be the same thing, they are not the same thing or even created by the same company.
 
 ## Step 1: Install Git
-
-
