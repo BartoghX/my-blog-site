@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "trashOption": "none",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "blog",
+  "attachmentFolderPath": "assets/blog"
+}

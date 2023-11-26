@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "a0ed74a836257806",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d20afdbab62e08b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b144f1400a5150d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e235254e58d4712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/26-11-23-Setting-up-Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb6ea6499c12ed75",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bdc271fa77cd8e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf035e9498d1dd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55187803b31fc6fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a389f18a309c2cf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "768e04831c3b5abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc248c44c97b7dc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/26-11-23-Setting-up-Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f24a75d9fc167549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/26-11-23-Setting-up-Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ca8e345d75a9d8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da8d18f708e2f55e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/26-11-23-Setting-up-Git.md"
+              }
+            }
+          },
+          {
+            "id": "8842376704861b49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3e235254e58d4712",
+  "lastOpenFiles": [
+    "blog/26-11-23-Setting-up-Git.md",
+    "_templates/new-blog_post-Template.md",
+    "_templates"
+  ]
+}
