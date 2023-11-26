@@ -1,9 +1,7 @@
 ---
-creation date: 2023-11-26 21:21
-modification date: Sunday 26th November 2023 21:21:02
 title: Setting up Git
 author: Kim Petersen
-date: 2023-11-26 21:21
+date: 
 taging: '["post", "featured"]'
 image: /assets/blog/setting-up-git.png
 imageAlt: Setting up Git
