@@ -11,3 +11,7 @@ css
 
 # macOS related files
 .DS_Store
+
+# Obsidian System files and Templater files
+_templates
+.obsidian
