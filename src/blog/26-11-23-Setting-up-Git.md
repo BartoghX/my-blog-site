@@ -5,7 +5,7 @@ title: Setting up Git
 author: Kim Petersen
 date: 2023-11-26 21:21
 taging: '["post", "featured"]'
-image: /assets/blog/settingupgit.jpg
+image: /assets/blog/setting-up-git.png
 imageAlt: Setting up Git
 description: An introduction to what Git is, and how to set it up for your personal use.
 ---
